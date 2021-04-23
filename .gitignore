@@ -1,0 +1,11 @@
+# Box
+.idea
+.vagrant
+*.box
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+mysql-apt-config_0.8.15-1_all.deb   
+
